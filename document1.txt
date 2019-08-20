@@ -1,1 +1,4 @@
 Content from document1.txt file.
+
+
+content to write data on file after first commit.
