@@ -4,10 +4,12 @@ description 1 for repo
 ## Introduction
 description 2 for intro
 
-##Purpose
+## Purpose
 description 3 for purpose
 
-##Deployment
+## Deployment
 description 4 for deployemnt
 
-##How to Contribute
+## How to Contribute
+
+## Copyright 	
