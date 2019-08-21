@@ -17,3 +17,5 @@ description 5 for how to contri
 description 6 for copyright
 
 changes1 made after stashing
+
+changes before stashing is made
